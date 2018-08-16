@@ -20,8 +20,6 @@ public class PrimeNumber {
 		System.out.println("Goodbye!");
 		
 		
-		
-		
 	}
 	public static int getNthPrime(int n) {
 	
